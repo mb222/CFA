@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cfa.exercise.AutoCompleteStatesTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-02-24T16:08:27" hostname="LAPTOP-V2EEBOC4" time="34.406">
+  <properties/>
+  <testcase name="it_should_return_states_that_start_with_the_input_text" classname="com.cfa.exercise.AutoCompleteStatesTest" time="4.582"/>
+  <testcase name="it_should_not_return_states_that_do_not_match" classname="com.cfa.exercise.AutoCompleteStatesTest" time="0.864"/>
+  <testcase name="the_next_results_should_start_with_the_input_text" classname="com.cfa.exercise.AutoCompleteStatesTest" time="0.431"/>
+  <testcase name="it_should_return_states_that_contain_the_input_text" classname="com.cfa.exercise.AutoCompleteStatesTest" time="0.306"/>
+  <testcase name="it_should_return_an_empty_list_when_input_blank" classname="com.cfa.exercise.AutoCompleteStatesTest" time="4.723"/>
+  <testcase name="it_should_return_an_empty_list_when_no_match" classname="com.cfa.exercise.AutoCompleteStatesTest" time="2.956"/>
+  <testcase name="it_should_contain_the_right_matches_in_the_right_order" classname="com.cfa.exercise.AutoCompleteStatesTest" time="0.982"/>
+  <testcase name="the_first_result_should_be_the_abbreviation_match" classname="com.cfa.exercise.AutoCompleteStatesTest" time="5.513"/>
+  <testcase name="it_should_not_return_duplicates" classname="com.cfa.exercise.AutoCompleteStatesTest" time="1.4"/>
+  <testcase name="it_should_return_an_empty_list_when_input_null" classname="com.cfa.exercise.AutoCompleteStatesTest" time="12.642"/>
+  <testcase name="it_should_return_the_state_that_matches_the_abbreviation" classname="com.cfa.exercise.AutoCompleteStatesTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
